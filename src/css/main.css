@@ -1,0 +1,118 @@
+main {
+  margin-top: 65px;
+}
+
+main .main__header div:nth-child(1) {
+  margin-bottom: 18px;
+}
+
+main .main__header div:nth-child(2) {
+  margin-bottom: 26px;
+}
+
+main .main__header_head p:nth-child(1) {
+  font-size: 48px;
+  font-family: Roboto-Black;
+  color: #383334;
+  line-height: 1;
+}
+
+@media (max-width: 1200px) {
+  main .main__header_head p:nth-child(1) {
+    font-size: 30px;
+  }
+}
+
+main .main__header_head p:nth-child(2) {
+  font-size: 24px;
+  font-family: Roboto-Bold;
+  color: #2b2828;
+  line-height: 1.167;
+}
+
+main .main__card .card_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  height: 360px;
+  width: 310px;
+}
+
+main .main__card .card_container:nth-child(2) {
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
+main .main__card .card_container div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+main .main__card .card_container div p {
+  padding-left: 20px;
+  font-size: 22px;
+  font-family: Roboto-Medium;
+  color: black;
+  line-height: 1.182;
+}
+
+main .main__card .card_container div .img_container {
+  height: 190px;
+  width: 190px;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+main .main__card .card_container div .img_container img:nth-child(2) {
+  position: absolute;
+  top: -10px;
+  right: 10px;
+}
+
+main .main__card .card_container div .img_container div {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: #ec9a6a;
+  position: absolute;
+  right: 0;
+  top: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+main .main__card .card_container div .img_container div span {
+  font-size: 30px;
+  font-family: Roboto-Regular;
+  color: white;
+}
+
+main .main__card .card_container svg {
+  margin-top: 25px;
+}
+
+main .main__card .card_container p {
+  font-size: 18px;
+  font-family: Roboto-Regular;
+  color: #444444;
+  line-height: 1.556;
+  padding-top: 20px;
+}
+/*# sourceMappingURL=main.css.map */

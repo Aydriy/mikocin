@@ -1,0 +1,82 @@
+main
+   
+    margin-top: 65px
+    .main
+        &__header
+            div:nth-child(1)
+                margin-bottom: 18px
+            div:nth-child(2)
+                margin-bottom: 26px
+        &__header_head
+            p:nth-child(1)
+                font-size: 48px;
+                font-family: Roboto-Black
+                color: rgb(56, 51, 52);
+                line-height: 1;
+                @media (max-width: 1200px)
+                    font-size: 30px;
+            p:nth-child(2)
+                font-size: 24px;
+                font-family: Roboto-Bold
+                color: rgb(43, 40, 40);
+                line-height: 1.167;
+
+        &__card
+            .card_container
+                display: flex
+                flex-direction: column
+                height: 360px
+                width: 310px
+                &:nth-child(2)
+                    margin-left: 90px
+                    margin-right: 90px
+                    
+                div
+                    display: flex
+                    align-items: center
+                    p
+                        padding-left: 20px
+                        font-size: 22px;
+                        font-family: Roboto-Medium
+                        color: rgb(0, 0, 0);
+                        line-height: 1.182;
+                    .img_container
+                        height: 190px
+                        width: 190px
+                        position: relative
+                        display: flex
+
+                        img:nth-child(1)
+                            
+                        img:nth-child(2)
+                            position: absolute
+                            top: -10px
+                            right: 10px
+                        div
+                            height: 50px
+                            width: 50px
+                            border-radius: 50%
+                            background-color: rgb(236, 154, 106);
+                            position: absolute
+                            right: 0
+                            top: 5px
+                            display: flex
+                            justify-content: center
+                            align-items: center
+                            span
+                                font-size: 30px;
+                                font-family: Roboto-Regular
+                                color: rgb(255, 255, 255);
+                            
+                svg
+                    margin-top: 25px
+                   
+                p
+                    font-size: 18px;
+                    font-family: Roboto-Regular
+                    color: rgb(68, 68, 68);
+                    line-height: 1.556;
+                    padding-top: 20px
+
+
+

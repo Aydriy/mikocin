@@ -1,0 +1,16 @@
+.navbar .navbar-logo-container {
+  margin-right: 22px;
+}
+
+.navbar .nav-link-span {
+  margin-left: 15px;
+  font-size: 16px;
+  color: #666666;
+  line-height: 1.125;
+  font-family: Roboto-Italic;
+}
+
+.navbar .navbar-brand {
+  font-family: Roboto-Black;
+}
+/*# sourceMappingURL=nav.css.map */
