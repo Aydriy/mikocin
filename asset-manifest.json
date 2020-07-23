@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mikocin/static/css/main.1af8618e.chunk.css",
-    "main.js": "/mikocin/static/js/main.ac9fa8ea.chunk.js",
-    "main.js.map": "/mikocin/static/js/main.ac9fa8ea.chunk.js.map",
+    "main.js": "/mikocin/static/js/main.fdddcb36.chunk.js",
+    "main.js.map": "/mikocin/static/js/main.fdddcb36.chunk.js.map",
     "runtime-main.js": "/mikocin/static/js/runtime-main.7b643242.js",
     "runtime-main.js.map": "/mikocin/static/js/runtime-main.7b643242.js.map",
     "static/js/2.d9777b54.chunk.js": "/mikocin/static/js/2.d9777b54.chunk.js",
     "static/js/2.d9777b54.chunk.js.map": "/mikocin/static/js/2.d9777b54.chunk.js.map",
     "index.html": "/mikocin/index.html",
-    "precache-manifest.90f87731f8680898fef390ab478f5ee0.js": "/mikocin/precache-manifest.90f87731f8680898fef390ab478f5ee0.js",
+    "precache-manifest.a19779b3ed8b35d673edcedfe905efff.js": "/mikocin/precache-manifest.a19779b3ed8b35d673edcedfe905efff.js",
     "service-worker.js": "/mikocin/service-worker.js",
     "static/css/main.1af8618e.chunk.css.map": "/mikocin/static/css/main.1af8618e.chunk.css.map",
     "static/js/2.d9777b54.chunk.js.LICENSE.txt": "/mikocin/static/js/2.d9777b54.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.7b643242.js",
     "static/js/2.d9777b54.chunk.js",
     "static/css/main.1af8618e.chunk.css",
-    "static/js/main.ac9fa8ea.chunk.js"
+    "static/js/main.fdddcb36.chunk.js"
   ]
 }
