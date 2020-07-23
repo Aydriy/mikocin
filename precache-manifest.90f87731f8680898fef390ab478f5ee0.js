@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ab6ec62490b1b853af1a9e714f696ef",
+    "revision": "8d825752618418d9d49332539155c439",
     "url": "/mikocin/index.html"
   },
   {
-    "revision": "7987f4e7a6bda6f2b81a",
+    "revision": "57f06f75f51a766ca29e",
     "url": "/mikocin/static/css/main.1af8618e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mikocin/static/js/2.d9777b54.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7987f4e7a6bda6f2b81a",
-    "url": "/mikocin/static/js/main.8aebf80e.chunk.js"
+    "revision": "57f06f75f51a766ca29e",
+    "url": "/mikocin/static/js/main.ac9fa8ea.chunk.js"
   },
   {
     "revision": "67191d373037e06fb7fd",
