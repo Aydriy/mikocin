@@ -214,12 +214,7 @@ export default function Header() {
                       <input name="login" placeholder="Имя" />
                     </p>
                     <p>
-                      <input
-                        type="tel"
-                        name="tel"
-                        pattern="2[0-9]{3}-[0-9]{3}"
-                        placeholder="Телефон"
-                      />
+                      <input type="tel" name="tel" placeholder="Телефон" />
                     </p>
                     <p>
                       <button>
